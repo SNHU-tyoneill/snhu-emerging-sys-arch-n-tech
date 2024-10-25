@@ -4,6 +4,8 @@ SNHU Emerging Sys Arch &amp; Tech Portfolio
 ## Overview
 This repository contains two projects developed during the course. These projects showcase my ability to write interface software to control hardware components, analyze hardware architecture design considerations, and recommend emerging technologies based on business requirements.
 
+### Project 1: SOS/OK Prototype
+
 #### Summary
 This project involved developing a system that outputs Morse code signals for SOS and OK using GPIOs and timers on the TI board. The goal was to create a reliable way to signal distress (SOS) and confirmation (OK) using LED flashes, demonstrating low-level hardware control and communication protocol implementation.
 
